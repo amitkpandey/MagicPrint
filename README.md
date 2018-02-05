@@ -4,6 +4,8 @@ MySQL has been used for user registration and login whereas firebase is being us
 
 See Gifs below to understand flow of App !
 
-![App Intro](https://github.com/singhkshitij/magicprint/blob/master/video2gif_20180205_170751.gif =250x450)
+![App Intro](https://github.com/singhkshitij/magicprint/blob/master/video2gif_20180205_170751.gif)
 
 ![App Flow](https://github.com/singhkshitij/magicprint/blob/master/video2gif_20180205_170830.gif)
+
+<img src="https://github.com/singhkshitij/magicprint/blob/master/video2gif_20180205_170830.gif" width="320" height="480" />
